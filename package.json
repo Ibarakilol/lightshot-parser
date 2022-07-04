@@ -1,0 +1,19 @@
+{
+  "name": "lightshot-parser",
+  "version": "1.0.0",
+  "description": "Lightshot random image parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "lightshot",
+    "parser"
+  ],
+  "author": "Nikita Lopanov",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
